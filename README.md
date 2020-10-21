@@ -1,6 +1,6 @@
 # git-demo-repo
 This repository is used as an example in Git training.
 
-Authors:
+## Authors
 - Rob Ewing (robert.c.ewing@vertexinc.com)
 - 
